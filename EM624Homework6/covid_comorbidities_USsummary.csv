@@ -1,0 +1,231 @@
+﻿Condition Group,Condition,ICD10_codes,Age Group,COVID-19 Deaths,Number of Mentions
+Respiratory diseases,Influenza and pneumonia,J09-J18,0-24,300,310
+Respiratory diseases,Influenza and pneumonia,J09-J18,25-34,1408,1433
+Respiratory diseases,Influenza and pneumonia,J09-J18,35-44,3799,3881
+Respiratory diseases,Influenza and pneumonia,J09-J18,45-54,11337,11627
+Respiratory diseases,Influenza and pneumonia,J09-J18,55-64,29064,29754
+Respiratory diseases,Influenza and pneumonia,J09-J18,65-74,52063,53207
+Respiratory diseases,Influenza and pneumonia,J09-J18,75-84,62919,63947
+Respiratory diseases,Influenza and pneumonia,J09-J18,85+,59437,60029
+Respiratory diseases,Influenza and pneumonia,J09-J18,Not stated,5,5
+Respiratory diseases,Influenza and pneumonia,J09-J18,All Ages,220332,224193
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,0-24,44,46
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,25-34,135,135
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,35-44,319,325
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,45-54,996,1023
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,55-64,4151,4333
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,65-74,10408,10859
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,75-84,14573,15138
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,85+,12702,13040
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,Not stated,1,1
+Respiratory diseases,Chronic lower respiratory diseases,J40-J47,All Ages,43329,44900
+Respiratory diseases,Adult respiratory distress syndrome,J80,0-24,132,132
+Respiratory diseases,Adult respiratory distress syndrome,J80,25-34,511,511
+Respiratory diseases,Adult respiratory distress syndrome,J80,35-44,1377,1377
+Respiratory diseases,Adult respiratory distress syndrome,J80,45-54,4070,4070
+Respiratory diseases,Adult respiratory distress syndrome,J80,55-64,9372,9372
+Respiratory diseases,Adult respiratory distress syndrome,J80,65-74,14543,14543
+Respiratory diseases,Adult respiratory distress syndrome,J80,75-84,12930,12930
+Respiratory diseases,Adult respiratory distress syndrome,J80,85+,8418,8418
+Respiratory diseases,Adult respiratory distress syndrome,J80,Not stated,2,2
+Respiratory diseases,Adult respiratory distress syndrome,J80,All Ages,51355,51355
+Respiratory diseases,Respiratory failure,J96,0-24,246,255
+Respiratory diseases,Respiratory failure,J96,25-34,998,1013
+Respiratory diseases,Respiratory failure,J96,35-44,2820,2858
+Respiratory diseases,Respiratory failure,J96,45-54,8702,8831
+Respiratory diseases,Respiratory failure,J96,55-64,23081,23543
+Respiratory diseases,Respiratory failure,J96,65-74,43330,44437
+Respiratory diseases,Respiratory failure,J96,75-84,53353,54843
+Respiratory diseases,Respiratory failure,J96,85+,48881,49880
+Respiratory diseases,Respiratory failure,J96,Not stated,3,3
+Respiratory diseases,Respiratory failure,J96,All Ages,181414,185663
+Respiratory diseases,Respiratory arrest,R09.2,0-24,15,15
+Respiratory diseases,Respiratory arrest,R09.2,25-34,57,57
+Respiratory diseases,Respiratory arrest,R09.2,35-44,151,151
+Respiratory diseases,Respiratory arrest,R09.2,45-54,428,428
+Respiratory diseases,Respiratory arrest,R09.2,55-64,1129,1129
+Respiratory diseases,Respiratory arrest,R09.2,65-74,2093,2093
+Respiratory diseases,Respiratory arrest,R09.2,75-84,2909,2909
+Respiratory diseases,Respiratory arrest,R09.2,85+,3645,3645
+Respiratory diseases,Respiratory arrest,R09.2,Not stated,0,0
+Respiratory diseases,Respiratory arrest,R09.2,All Ages,10427,10427
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",0-24,49,52
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",25-34,144,154
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",35-44,370,386
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",45-54,983,1036
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",55-64,2558,2713
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",65-74,4503,4735
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",75-84,5385,5598
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",85+,5029,5134
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",Not stated,0,0
+Respiratory diseases,Other diseases of the respiratory system,"J00-J06, J20-J39, J60-J70, J81-J86, J90-J95, J97-J99, U04",All Ages,19021,19808
+Circulatory diseases,Hypertensive diseases,I10-I15,0-24,32,32
+Circulatory diseases,Hypertensive diseases,I10-I15,25-34,272,276
+Circulatory diseases,Hypertensive diseases,I10-I15,35-44,1136,1143
+Circulatory diseases,Hypertensive diseases,I10-I15,45-54,3757,3785
+Circulatory diseases,Hypertensive diseases,I10-I15,55-64,11037,11101
+Circulatory diseases,Hypertensive diseases,I10-I15,65-74,21263,21384
+Circulatory diseases,Hypertensive diseases,I10-I15,75-84,27484,27667
+Circulatory diseases,Hypertensive diseases,I10-I15,85+,32141,32520
+Circulatory diseases,Hypertensive diseases,I10-I15,Not stated,1,1
+Circulatory diseases,Hypertensive diseases,I10-I15,All Ages,97123,97909
+Circulatory diseases,Ischemic heart disease,I20-I25,0-24,8,9
+Circulatory diseases,Ischemic heart disease,I20-I25,25-34,59,63
+Circulatory diseases,Ischemic heart disease,I20-I25,35-44,268,283
+Circulatory diseases,Ischemic heart disease,I20-I25,45-54,1176,1250
+Circulatory diseases,Ischemic heart disease,I20-I25,55-64,4564,4877
+Circulatory diseases,Ischemic heart disease,I20-I25,65-74,10986,11693
+Circulatory diseases,Ischemic heart disease,I20-I25,75-84,16810,17770
+Circulatory diseases,Ischemic heart disease,I20-I25,85+,19243,20235
+Circulatory diseases,Ischemic heart disease,I20-I25,Not stated,1,1
+Circulatory diseases,Ischemic heart disease,I20-I25,All Ages,53115,56181
+Circulatory diseases,Cardiac arrest,I46,0-24,103,103
+Circulatory diseases,Cardiac arrest,I46,25-34,456,457
+Circulatory diseases,Cardiac arrest,I46,35-44,1214,1214
+Circulatory diseases,Cardiac arrest,I46,45-54,3574,3574
+Circulatory diseases,Cardiac arrest,I46,55-64,8341,8344
+Circulatory diseases,Cardiac arrest,I46,65-74,13622,13622
+Circulatory diseases,Cardiac arrest,I46,75-84,15443,15448
+Circulatory diseases,Cardiac arrest,I46,85+,15188,15190
+Circulatory diseases,Cardiac arrest,I46,Not stated,1,1
+Circulatory diseases,Cardiac arrest,I46,All Ages,57942,57953
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",0-24,20,20
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",25-34,67,67
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",35-44,184,189
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",45-54,684,709
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",55-64,2426,2491
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",65-74,6376,6533
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",75-84,11051,11279
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",85+,14628,14871
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",Not stated,0,0
+Circulatory diseases,Cardiac arrhythmia,"I44, I45, I47-I49",All Ages,35436,36159
+Circulatory diseases,Heart failure,I50,0-24,14,14
+Circulatory diseases,Heart failure,I50,25-34,81,81
+Circulatory diseases,Heart failure,I50,35-44,252,252
+Circulatory diseases,Heart failure,I50,45-54,804,805
+Circulatory diseases,Heart failure,I50,55-64,2690,2692
+Circulatory diseases,Heart failure,I50,65-74,6223,6230
+Circulatory diseases,Heart failure,I50,75-84,10673,10679
+Circulatory diseases,Heart failure,I50,85+,15965,15974
+Circulatory diseases,Heart failure,I50,Not stated,1,1
+Circulatory diseases,Heart failure,I50,All Ages,36703,36728
+Circulatory diseases,Cerebrovascular diseases,I60-I69,0-24,22,22
+Circulatory diseases,Cerebrovascular diseases,I60-I69,25-34,67,72
+Circulatory diseases,Cerebrovascular diseases,I60-I69,35-44,221,234
+Circulatory diseases,Cerebrovascular diseases,I60-I69,45-54,783,818
+Circulatory diseases,Cerebrovascular diseases,I60-I69,55-64,2469,2550
+Circulatory diseases,Cerebrovascular diseases,I60-I69,65-74,5112,5245
+Circulatory diseases,Cerebrovascular diseases,I60-I69,75-84,7026,7178
+Circulatory diseases,Cerebrovascular diseases,I60-I69,85+,8134,8319
+Circulatory diseases,Cerebrovascular diseases,I60-I69,Not stated,1,1
+Circulatory diseases,Cerebrovascular diseases,I60-I69,All Ages,23835,24439
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",0-24,91,105
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",25-34,249,277
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",35-44,564,641
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",45-54,1483,1613
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",55-64,3644,3954
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",65-74,6531,7100
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",75-84,8140,8822
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",85+,8919,9661
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",Not stated,0,0
+Circulatory diseases,Other diseases of the circulatory system,"I00-I09, I26-I43, I51, I52, I70-I99",All Ages,29621,32173
+Sepsis,Sepsis,A40-A41,0-24,84,85
+Sepsis,Sepsis,A40-A41,25-34,347,347
+Sepsis,Sepsis,A40-A41,35-44,1000,1000
+Sepsis,Sepsis,A40-A41,45-54,2997,2998
+Sepsis,Sepsis,A40-A41,55-64,7508,7514
+Sepsis,Sepsis,A40-A41,65-74,12723,12727
+Sepsis,Sepsis,A40-A41,75-84,12186,12189
+Sepsis,Sepsis,A40-A41,85+,8153,8155
+Sepsis,Sepsis,A40-A41,Not stated,1,1
+Sepsis,Sepsis,A40-A41,All Ages,44999,45016
+Malignant neoplasms,Malignant neoplasms,C00-C97,0-24,52,60
+Malignant neoplasms,Malignant neoplasms,C00-C97,25-34,74,82
+Malignant neoplasms,Malignant neoplasms,C00-C97,35-44,245,273
+Malignant neoplasms,Malignant neoplasms,C00-C97,45-54,778,919
+Malignant neoplasms,Malignant neoplasms,C00-C97,55-64,2808,3194
+Malignant neoplasms,Malignant neoplasms,C00-C97,65-74,5842,6573
+Malignant neoplasms,Malignant neoplasms,C00-C97,75-84,6929,7779
+Malignant neoplasms,Malignant neoplasms,C00-C97,85+,5602,6186
+Malignant neoplasms,Malignant neoplasms,C00-C97,Not stated,0,0
+Malignant neoplasms,Malignant neoplasms,C00-C97,All Ages,22330,25066
+Diabetes,Diabetes,E10-E14,0-24,90,90
+Diabetes,Diabetes,E10-E14,25-34,428,432
+Diabetes,Diabetes,E10-E14,35-44,1527,1543
+Diabetes,Diabetes,E10-E14,45-54,4734,4757
+Diabetes,Diabetes,E10-E14,55-64,12254,12328
+Diabetes,Diabetes,E10-E14,65-74,21159,21264
+Diabetes,Diabetes,E10-E14,75-84,21954,22055
+Diabetes,Diabetes,E10-E14,85+,15513,15569
+Diabetes,Diabetes,E10-E14,Not stated,1,1
+Diabetes,Diabetes,E10-E14,All Ages,77660,78039
+Obesity,Obesity,E65-E68,0-24,182,182
+Obesity,Obesity,E65-E68,25-34,748,751
+Obesity,Obesity,E65-E68,35-44,1614,1620
+Obesity,Obesity,E65-E68,45-54,2995,2997
+Obesity,Obesity,E65-E68,55-64,4690,4700
+Obesity,Obesity,E65-E68,65-74,5007,5020
+Obesity,Obesity,E65-E68,75-84,2691,2695
+Obesity,Obesity,E65-E68,85+,707,707
+Obesity,Obesity,E65-E68,Not stated,0,0
+Obesity,Obesity,E65-E68,All Ages,18634,18672
+Alzheimer disease,Alzheimer disease,G30,0-24,0,0
+Alzheimer disease,Alzheimer disease,G30,25-34,0,0
+Alzheimer disease,Alzheimer disease,G30,35-44,3,3
+Alzheimer disease,Alzheimer disease,G30,45-54,13,13
+Alzheimer disease,Alzheimer disease,G30,55-64,160,160
+Alzheimer disease,Alzheimer disease,G30,65-74,1192,1193
+Alzheimer disease,Alzheimer disease,G30,75-84,5376,5380
+Alzheimer disease,Alzheimer disease,G30,85+,12008,12032
+Alzheimer disease,Alzheimer disease,G30,Not stated,0,0
+Alzheimer disease,Alzheimer disease,G30,All Ages,18752,18781
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",0-24,0,0
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",25-34,1,1
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",35-44,4,4
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",45-54,47,47
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",55-64,643,643
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",65-74,4273,4283
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",75-84,14902,14920
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",85+,30937,30968
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",Not stated,1,1
+Vascular and unspecified dementia,Vascular and unspecified dementia,"F01, F03",All Ages,50808,50867
+Renal failure,Renal failure,N17-N19,0-24,51,52
+Renal failure,Renal failure,N17-N19,25-34,289,300
+Renal failure,Renal failure,N17-N19,35-44,846,864
+Renal failure,Renal failure,N17-N19,45-54,2541,2611
+Renal failure,Renal failure,N17-N19,55-64,6438,6631
+Renal failure,Renal failure,N17-N19,65-74,11680,12140
+Renal failure,Renal failure,N17-N19,75-84,13061,13687
+Renal failure,Renal failure,N17-N19,85+,11373,11920
+Renal failure,Renal failure,N17-N19,Not stated,2,3
+Renal failure,Renal failure,N17-N19,All Ages,46281,48208
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",0-24,67,171
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",25-34,159,395
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",35-44,257,590
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",45-54,493,966
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",55-64,1137,2119
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",65-74,1929,3538
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",75-84,2450,4678
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",85+,3009,6105
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",Not stated,0,0
+"Intentional and unintentional injury, poisoning, and other adverse events","Intentional and unintentional injury, poisoning, and other adverse events","S00-T98, V01-X59, X60-X84, X85-Y09, Y10-Y36, Y40-Y89, U01-U03",All Ages,9501,18562
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",0-24,417,713
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",25-34,1274,2038
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",35-44,3025,4831
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",45-54,8389,13008
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",55-64,22180,34399
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",65-74,41508,63611
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",75-84,51219,76908
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",85+,53900,80625
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",Not stated,6,10
+All other conditions and causes (residual),All other conditions and causes (residual),"A00-A39, A42-B99, D00-E07, E15-E64, E70-E90, F00, F02, F04-G26, G31-H95, K00-K93, L00-M99, N00-N16, N20-N98, O00-O99, P00-P96, Q00-Q99, R00-R08, R09.0, R09.1, R09.3, R09.8, R10-R99",All Ages,181918,276143
+COVID-19,COVID-19,U071,0-24,846,846
+COVID-19,COVID-19,U071,25-34,3099,3099
+COVID-19,COVID-19,U071,35-44,8175,8175
+COVID-19,COVID-19,U071,45-54,22679,22679
+COVID-19,COVID-19,U071,55-64,57925,57925
+COVID-19,COVID-19,U071,65-74,105800,105800
+COVID-19,COVID-19,U071,75-84,136333,136333
+COVID-19,COVID-19,U071,85+,153911,153911
+COVID-19,COVID-19,U071,Not stated,8,8
+COVID-19,COVID-19,U071,All Ages,488776,488776
